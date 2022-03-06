@@ -8,7 +8,7 @@ spread: true
 
 custom:
   - files:
-      - "./swagger-ui/dist/"
+      - "./swagger-ui/new/"
 
-    base: "swagger-ui/dist"
+    base: "swagger-ui/new"
 
